@@ -1,6 +1,6 @@
 Websites used for scraping\resources:
 
-https://data.medicare.gov/data/hospital-compare (natational, state, and hospital csv)
+https://data.medicare.gov/data/hospital-compare (national, state, and hospital csv)
 
 Scraping:
 https://www.cdc.gov/sepsis/what-is-sepsis.html
